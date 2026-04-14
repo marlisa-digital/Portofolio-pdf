@@ -38,6 +38,18 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 ---
 
 ## 💼 Featured Work
+### 🏥 Allbirds.com — E-Commerce Funnel Audit
+> **Problem:** Strong brand with 324K monthly visitors but Core Web Vitals failing on both mobile and desktop, and significant conversion drop-offs throughout the purchase funnel.
+>
+> **Approach:** Full external funnel audit combining manual UX walkthrough (desktop + mobile), PageSpeed Insights data, and SEMrush domain analysis. Mapped end-to-end customer journey with drop-off percentages at each stage.
+>
+> **Output:** Structured audit report with severity ratings, 6 prioritized recommendations, and a 30-day action roadmap — quick wins first, structural fixes second.
+>
+> `Funnel Audit ` `E-Commerce` `SEMrush` `PageSpeed Insights ` `UX Analysis` `DTC`
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/b1313f07-439b-4321-a1b0-df37b8cc2dc7)
+[![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://github.com/marlisa-digital/GA4/E-commerce.png)
+
 
 ### 🏥 Healthcare Claims — Backlog & Trapped Cash Intelligence
 > **Problem:** Insurance operations teams had no visibility into *why* claims were stuck or *which* ones to prioritize — leading to Rp 397M+ in trapped, uncollected revenue.
