@@ -87,7 +87,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > `Funnel Audit` `Website Audit` `Email Marketing` `Digital Strategy`
 
-[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-PDF-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/wellness_audit_portfolio.pdf)
+[![View Case Study](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/wellness_audit_portfolio.pdf)
 
 ---
 
@@ -100,7 +100,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > `Data Dashboard` `KPI Reporting` `HTML Tool` `Insurance Operations`
 
-[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-PDF-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/brokeriq_portfolio.pdf)
+[![View Case Study](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/brokeriq_portfolio.pdf)
 
 ---
 
@@ -113,7 +113,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > `Social Media Audit` `Content Strategy` `TikTok` `Instagram`
 
-[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-PDF-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/audit_report_portfolio.pdf)
+[![View Case Study](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/audit_report_portfolio.pdf)
 
 ---
 
@@ -126,7 +126,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > `Social Media Strategy` `Content Calendar` `Instagram` `Facebook`
 
-[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-PDF-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/Bakery%20Bliss%20-%20Study%20Case%20-%20Virtualeaf.pdf)
+[![View Case Study](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/Bakery%20Bliss%20-%20Study%20Case%20-%20Virtualeaf.pdf)
 
 ---
 
@@ -135,7 +135,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > **Stack:** Vanilla JS · HTML/CSS · SheetJS
 
-[![View Project](https://img.shields.io/badge/View-Project-4a8c78?style=flat-square)](https://github.com/marlisa-digital)
+[![View Project](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square)](https://github.com/marlisa-digital)
 
 ---
 
