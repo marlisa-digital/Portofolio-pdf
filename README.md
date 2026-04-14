@@ -48,7 +48,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 > `Funnel Audit ` `E-Commerce` `SEMrush` `PageSpeed Insights ` `UX Analysis` `DTC`
 
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/b1313f07-439b-4321-a1b0-df37b8cc2dc7)
-[![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://github.com/marlisa-digital/GA4/E-commerce.png)
+[![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://github.com/marlisa-digital/GA4/GA4_Report+GoogleMerchandise)
 
 
 ### 🏥 Healthcare Claims — Backlog & Trapped Cash Intelligence
