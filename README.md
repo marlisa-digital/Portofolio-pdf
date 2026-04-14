@@ -61,7 +61,6 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > `Funnel Audit ` `E-Commerce` `SEMrush` `PageSpeed Insights ` `UX Analysis` `DTC`
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)]
 [![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/allbirds_funnel_audit_updated.pdf)
 
 
