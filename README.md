@@ -8,7 +8,7 @@
 
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016b36095267de4b40?mp_source=share)
 [![Virtualeaf](https://img.shields.io/badge/Agency-Virtualeaf-4a8c78?style=for-the-badge)](https://virtualeaf-digital-agency.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4a8c78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlisaasmarawati@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlisaasmarawati@gmail.com)
 
 </div>
 
