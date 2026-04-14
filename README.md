@@ -146,7 +146,7 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Pagespeed](https://img.shields.io/badge/Pagespeed-E37400?style=flat-square&logo=pagespeed&logoColor=white)
+![Pagespeed](https://img.shields.io/badge/Pagespeed-34A853?style=flat-square&logo=pagespeed&logoColor=white)
 ![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=pagespeed&logoColor=white)
 
 **Data & Reporting**
