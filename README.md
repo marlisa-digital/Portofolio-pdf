@@ -38,6 +38,20 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 ---
 
 ## 💼 Featured Work
+### 📊 Google Merchandise Store — E-Commerce Performance Dashboard
+> **Problem:**  High traffic volume (95K+ sessions) but low purchase conversion rate of 0.93% — with a critical mobile vs desktop performance gap that was silently costing revenue.
+>
+> **Approach:** Built a live performance dashboard using Google Analytics 4 data visualized in Looker Studio. Analyzed traffic acquisition, device performance, funnel drop-off, and channel revenue contribution.
+>
+> **Key Finding:** Mobile drives 57% of sessions but converts 25x lower than desktop. Email channel has the highest conversion rate despite lowest traffic volume.
+> 
+> **Output:** Interactive Looker Studio dashboard with KPI scorecards, traffic channel analysis, device breakdown, page funnel visualization, and channel revenue comparison.
+>
+> `Google Analytics 4 ` `Looker Studio` `E-Commerce Analytics ` `Dashboard Development ` `Funnel Analysis`
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/b1313f07-439b-4321-a1b0-df37b8cc2dc7)
+[![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/GA4/GA4_Report_GoogleMerchandise.pdf)
+
 ### 🏥 Allbirds.com — E-Commerce Funnel Audit
 > **Problem:** Strong brand with 324K monthly visitors but Core Web Vitals failing on both mobile and desktop, and significant conversion drop-offs throughout the purchase funnel.
 >
@@ -47,8 +61,8 @@ KPI Dashboard & Reporting  →  turn messy numbers into clear decisions
 >
 > `Funnel Audit ` `E-Commerce` `SEMrush` `PageSpeed Insights ` `UX Analysis` `DTC`
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/b1313f07-439b-4321-a1b0-df37b8cc2dc7)
-[![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://github.com/marlisa-digital/GA4/GA4_Report_GoogleMerchandise.pdf)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)]
+[![View Repository](https://img.shields.io/badge/View%20Repository-4a8c78?style=flat-square&logo=github&logoColor=white)](https://marlisa-digital.github.io/Portofolio-pdf/allbirds_funnel_audit_updated.pdf)
 
 
 ### 🏥 Healthcare Claims — Backlog & Trapped Cash Intelligence
